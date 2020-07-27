@@ -1,4 +1,16 @@
 ### Hi there 👋
+# Munawir :smiley:
+ 
+
+<a href="https://github.com/Munawir712">
+  <img align="left" alt="Munawir's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/mzwir712">
+  <img align="left" alt="Munawir Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/munawir.wir.311">
+  <img align="left" alt="Munawir's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 <!--
 **Munawir712/Munawir712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
