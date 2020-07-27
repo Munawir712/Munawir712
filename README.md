@@ -11,6 +11,9 @@
 <a href="https://www.facebook.com/munawir.wir.311">
   <img align="left" alt="Munawir's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCaLKsGHR-o2wMikGHZ8qqcw">
+  <img align="left" alt="Munawir's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 <!--
 **Munawir712/Munawir712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
