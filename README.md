@@ -15,6 +15,10 @@
   <img align="left" alt="Munawir's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+<br/><br/>
+### Languages
+![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=flutter)
+
 <!--
 **Munawir712/Munawir712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
