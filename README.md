@@ -1,5 +1,4 @@
-### Hi im Munawir 👋
-# I am flutter enthusiast :smiley:
+### Hi im
  ![readmebox](https://github.com/Munawir712/Munawir712/assets/46591537/1e6daa0b-1dfe-4976-8bfd-d090896acb79)
 
 
