@@ -1,5 +1,5 @@
 ### 👋 Hi im
- ![readmebox](https://github.com/Munawir712/Munawir712/assets/46591537/1e6daa0b-1dfe-4976-8bfd-d090896acb79)
+ <!-- ![readmebox](https://github.com/Munawir712/Munawir712/assets/46591537/1e6daa0b-1dfe-4976-8bfd-d090896acb79) -->
 
 
 <a href="https://github.com/Munawir712">
@@ -18,6 +18,7 @@
 <br/><br/>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=flutter&link=https://flutter.dev)
+![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat&logo=laravel&link=https://laravel.com)
 
 <!--
 **Munawir712/Munawir712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
